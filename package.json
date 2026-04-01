@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/Web-Engineering-KFUPM/6-2-npm-node-Abdullah-Zh/issues"
   },
-  "homepage": "https://github.com/Web-Engineering-KFUPM/6-2-npm-node-Abdullah-Zh#readme"
+  "homepage": "https://github.com/Web-Engineering-KFUPM/6-2-npm-node-Abdullah-Zh#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
